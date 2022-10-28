@@ -17,9 +17,35 @@ To utilize the site, refer to the live link here: [Hosted Site](https://joshuaor
 
 ## Deployed Site
 The following are some screenshots of the deployed site, as well as some of the window prompts. 
+
+Empty Site
+
 ![empty site](https://user-images.githubusercontent.com/114437149/198723329-39363e9a-b77b-4190-941c-d85159a572bb.png)
+<br>
+
+Length Prompt
+
 ![site prompt length](https://user-images.githubusercontent.com/114437149/198723362-1e9fe94c-0a7d-42a5-b47c-5f583ed7a33c.png)
+<br>
+
+Length prompt error
+
 ![site length error](https://user-images.githubusercontent.com/114437149/198723374-ba66ff58-02ab-421d-8deb-aa1c704218a5.png)
+<br>
+
+Special Character Prompt
+
 ![site prompt special char](https://user-images.githubusercontent.com/114437149/198723396-c294e3b9-ff75-4300-bebb-ac8477ed40e8.png)
+<br>
+
+Confirmation 
+
 ![confirmation prompt](https://user-images.githubusercontent.com/114437149/198723408-3c249783-183d-4ffa-8d9e-48040e83829d.png)
+<br>
+
+
+Generated Password
+
 ![generated password using only special characters and numbers](https://user-images.githubusercontent.com/114437149/198723425-f5621fc6-f1d2-4478-9a6e-0e9469e1af99.png)
+
+
