@@ -44,7 +44,7 @@ Confirmation
 <br>
 
 
-Generated Password
+Generated Password using only special characters and numbers
 
 ![generated password using only special characters and numbers](https://user-images.githubusercontent.com/114437149/198723425-f5621fc6-f1d2-4478-9a6e-0e9469e1af99.png)
 
